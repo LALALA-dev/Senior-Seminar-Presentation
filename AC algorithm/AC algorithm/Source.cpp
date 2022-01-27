@@ -181,11 +181,7 @@ void naiveSearch(vector<string> patt, string txt)
 void main() {
     cout << "104 keywords and 26334 input texts: " << endl;
     preparingData();
-    {
-        Timer naive; 
-        naiveSearch(p, t);
-        cout << "Naive algorithm: " << endl;
-    }
+    naiveSearch(p, t);
    
     node* root = new node();
     buildAC(root);

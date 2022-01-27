@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(59,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(76,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(81,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(89,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(93,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(107,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(118,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(120,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(128,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(135,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(153,27): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(154,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(160,35): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(181,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  1 of 434 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  AC algorithm.vcxproj -> C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\Release\AC algorithm.exe

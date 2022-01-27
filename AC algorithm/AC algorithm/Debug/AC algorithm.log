@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(44,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(61,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(66,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(74,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(78,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(92,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(102,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(104,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(112,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(119,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(135,27): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(136,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(142,35): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\AC algorithm\Source.cpp(161,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  AC algorithm.vcxproj -> C:\Users\WWD12\Downloads\Visual Studio Project\AC algorithm\Debug\AC algorithm.exe
